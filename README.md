@@ -1,0 +1,1 @@
+![Scatter](Predicting-Flight-Prices-Based-on-Various-Criteria\output-image\total_cost_by_day.jpg?raw=true "Title")
