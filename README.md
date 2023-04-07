@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project: Predicting Flight Prices Based on Various Criteria
 
 ## Project Description/Outline: 
