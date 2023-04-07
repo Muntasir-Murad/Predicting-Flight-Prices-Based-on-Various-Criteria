@@ -84,6 +84,6 @@ Scatter plots were used to analyze the relationship between flight cost and each
 - Natalie Lollin
 - Philip Okoth
 - Emily Washburn
-=======
-![Scatter](Predicting-Flight-Prices-Based-on-Various-Criteria\output-image\total_cost_by_day.jpg?raw=true "Title")
->>>>>>> e5abc9f0f9e37012a0c0f47e0a32fae4e0afa4bc
+
+## Link to the presentation https://docs.google.com/presentation/d/1ukRb7yUblg4dK_2DCZ46cy7st1AtXGdnWajyN3RxD3c/edit#slide=id.p
+
