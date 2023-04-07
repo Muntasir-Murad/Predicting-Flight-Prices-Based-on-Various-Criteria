@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Predicting Flight Prices Based on Various Criteria
 
 ## Project Description/Outline: 
@@ -84,3 +85,6 @@ Scatter plots were used to analyze the relationship between flight cost and each
 - Natalie Lollin
 - Philip Okoth
 - Emily Washburn
+=======
+![Scatter](Predicting-Flight-Prices-Based-on-Various-Criteria\output-image\total_cost_by_day.jpg?raw=true "Title")
+>>>>>>> e5abc9f0f9e37012a0c0f47e0a32fae4e0afa4bc
